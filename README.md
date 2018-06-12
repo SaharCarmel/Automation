@@ -7,3 +7,5 @@ Ask the user if he is intrested and send to site if the answer is positive.
 -Expend to other sites
 
 -Summary
+
+-Trip advisor recommendation
